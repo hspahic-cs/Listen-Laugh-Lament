@@ -5,7 +5,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
 
 creating_auth = importlib.import_module("creating-auth")
-creating_auth.get_user("Saoirse")
+creating_auth.get_user("Harris")
 # auth_manager = SpotifyClientCredentials()
 # sp = spotipy.Spotify(auth_manager=auth_manager)
 
@@ -19,7 +19,7 @@ creating_auth.get_user("Saoirse")
 #         playlists = None
 scope = "user-library-read"
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth())
 
 results = sp.current_user_saved_tracks()
 for idx, item in enumerate(results['items']):
