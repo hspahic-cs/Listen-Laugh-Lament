@@ -1,11 +1,45 @@
 import spotipy
 import importlib
 import os
+import requests
+import lyricsgenius as lg
+
 from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
 
+# Defining Constants
+print(os.environ)
+GENIUS = lg.Genius(os.getenv("GENIUS_ACCESS"), remove_section_headers=True)
+
+def get_lyrics(song, artist):
+    song = GENIUS.search_song(song, artist)
+    return song.lyrics
+
+def main():
+    token = os.getenv("GENIUS_ACCESS")
+    song_title = "Shape of You"  # replace with your desired song
+    artist_name = "Ed Sheeran"  # replace with the artist's name
+
+    
+    print(get_lyrics(song_title, artist_name))
+
+
+main()
+
+'''
+# Creating connection for spotify API
 creating_auth = importlib.import_module("creating-auth")
 creating_auth.get_user("Saoirse")
+
+scope = "user-library-read"
+
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
+
+# Creating connection to Genius API
+
+
+
+
 # auth_manager = SpotifyClientCredentials()
 # sp = spotipy.Spotify(auth_manager=auth_manager)
 
@@ -17,9 +51,6 @@ creating_auth.get_user("Saoirse")
 #         playlists = sp.next(playlists)
 #     else:
 #         playlists = None
-scope = "user-library-read"
-
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 
 results = sp.current_user_saved_tracks()
 for idx, item in enumerate(results['items']):
@@ -38,3 +69,4 @@ for idx, item in enumerate(results['items']):
 
 os.environ.pop("SPOTIPY_CLIENT_ID")
 os.environ.pop("SPOTIPY_CLIENT_SECRET")
+'''
