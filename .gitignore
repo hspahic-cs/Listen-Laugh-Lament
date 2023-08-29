@@ -1,2 +1,4 @@
 .env
+.cache
 muse_v3.csv
+datasets
