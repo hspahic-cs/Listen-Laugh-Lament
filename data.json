@@ -1,0 +1,451 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "hits": [
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 7,
+                    "api_path": "/songs/771370",
+                    "artist_names": "Amon Amarth",
+                    "full_title": "Embrace the Endless Ocean by\u00a0Amon\u00a0Amarth",
+                    "header_image_thumbnail_url": "https://images.genius.com/7c326af12ba594ebc12927631494f5b0.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7c326af12ba594ebc12927631494f5b0.600x600x1.jpg",
+                    "id": 771370,
+                    "lyrics_owner_id": 4334743,
+                    "lyrics_state": "complete",
+                    "path": "/Amon-amarth-embrace-the-endless-ocean-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Amon-amarth-embrace-the-endless-ocean-sample",
+                    "release_date_components": {
+                        "year": 2008,
+                        "month": 9,
+                        "day": 17
+                    },
+                    "release_date_for_display": "September 17, 2008",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 17, 2008",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7c326af12ba594ebc12927631494f5b0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7c326af12ba594ebc12927631494f5b0.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 7062
+                    },
+                    "title": "Embrace the Endless Ocean",
+                    "title_with_featured": "Embrace the Endless Ocean",
+                    "url": "https://genius.com/Amon-amarth-embrace-the-endless-ocean-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/54783",
+                        "header_image_url": "https://images.genius.com/0795ee7a2ce1eb3ac1fef315379eabf9.700x310x1.png",
+                        "id": 54783,
+                        "image_url": "https://images.genius.com/a4b46cf87246ea927f884d788ac24e8b.804x804x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Amon Amarth",
+                        "url": "https://genius.com/artists/Amon-amarth"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 1,
+                    "api_path": "/songs/771089",
+                    "artist_names": "Amon Amarth",
+                    "full_title": "Embrace Of The Endless Ocean by\u00a0Amon\u00a0Amarth",
+                    "header_image_thumbnail_url": "https://images.genius.com/a4b46cf87246ea927f884d788ac24e8b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a4b46cf87246ea927f884d788ac24e8b.804x804x1.jpg",
+                    "id": 771089,
+                    "lyrics_owner_id": 1549345,
+                    "lyrics_state": "complete",
+                    "path": "/Amon-amarth-embrace-of-the-endless-ocean-lyrics",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Amon-amarth-embrace-of-the-endless-ocean-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a4b46cf87246ea927f884d788ac24e8b.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a4b46cf87246ea927f884d788ac24e8b.804x804x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Embrace Of The Endless Ocean",
+                    "title_with_featured": "Embrace Of The Endless Ocean",
+                    "url": "https://genius.com/Amon-amarth-embrace-of-the-endless-ocean-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/54783",
+                        "header_image_url": "https://images.genius.com/0795ee7a2ce1eb3ac1fef315379eabf9.700x310x1.png",
+                        "id": 54783,
+                        "image_url": "https://images.genius.com/a4b46cf87246ea927f884d788ac24e8b.804x804x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Amon Amarth",
+                        "url": "https://genius.com/artists/Amon-amarth"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5991248",
+                    "artist_names": "Miles Hardt",
+                    "full_title": "Sinners Need Love by\u00a0Miles\u00a0Hardt",
+                    "header_image_thumbnail_url": "https://images.genius.com/eff7a49b22b730cfc6221732df4987a3.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/eff7a49b22b730cfc6221732df4987a3.1000x1000x1.jpg",
+                    "id": 5991248,
+                    "lyrics_owner_id": 7881998,
+                    "lyrics_state": "complete",
+                    "path": "/Miles-hardt-sinners-need-love-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Miles-hardt-sinners-need-love-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 10,
+                        "day": 23
+                    },
+                    "release_date_for_display": "October 23, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 23, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/eff7a49b22b730cfc6221732df4987a3.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/eff7a49b22b730cfc6221732df4987a3.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sinners Need Love",
+                    "title_with_featured": "Sinners Need Love",
+                    "url": "https://genius.com/Miles-hardt-sinners-need-love-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1421699",
+                        "header_image_url": "https://images.genius.com/8f483e6cd0f3d27b3c07732891ce60c1.1000x731x1.jpg",
+                        "id": 1421699,
+                        "image_url": "https://images.genius.com/c1b659b29839ba0c3b16389aba56fd08.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Miles Hardt",
+                        "url": "https://genius.com/artists/Miles-hardt"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8249476",
+                    "artist_names": "Fogos",
+                    "full_title": "Dysnomia by\u00a0Fogos",
+                    "header_image_thumbnail_url": "https://images.genius.com/6a5f756eb550ae430d8bbbdbf431947e.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6a5f756eb550ae430d8bbbdbf431947e.1000x1000x1.jpg",
+                    "id": 8249476,
+                    "lyrics_owner_id": 17455138,
+                    "lyrics_state": "complete",
+                    "path": "/Fogos-dysnomia-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Fogos-dysnomia-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6a5f756eb550ae430d8bbbdbf431947e.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6a5f756eb550ae430d8bbbdbf431947e.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dysnomia",
+                    "title_with_featured": "Dysnomia",
+                    "url": "https://genius.com/Fogos-dysnomia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3249049",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1694791902",
+                        "id": 3249049,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1694791902",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fogos",
+                        "url": "https://genius.com/artists/Fogos"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 6,
+                    "api_path": "/songs/1255762",
+                    "artist_names": "Fairport Convention",
+                    "full_title": "John Barleycorn by\u00a0Fairport\u00a0Convention",
+                    "header_image_thumbnail_url": "https://images.genius.com/89c06d9ce85d56321d46d4da9822d564.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/89c06d9ce85d56321d46d4da9822d564.600x600x1.jpg",
+                    "id": 1255762,
+                    "lyrics_owner_id": 8613973,
+                    "lyrics_state": "complete",
+                    "path": "/Fairport-convention-john-barleycorn-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Fairport-convention-john-barleycorn-sample",
+                    "release_date_components": {
+                        "year": 1978,
+                        "month": 5,
+                        "day": null
+                    },
+                    "release_date_for_display": "May 1978",
+                    "release_date_with_abbreviated_month_for_display": "May. 1978",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/89c06d9ce85d56321d46d4da9822d564.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/89c06d9ce85d56321d46d4da9822d564.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 6,
+                        "hot": false
+                    },
+                    "title": "John Barleycorn",
+                    "title_with_featured": "John Barleycorn",
+                    "url": "https://genius.com/Fairport-convention-john-barleycorn-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/33401",
+                        "header_image_url": "https://images.genius.com/7e8c2fff28655aab5358db06deb8aa63.474x266x1.jpg",
+                        "id": 33401,
+                        "image_url": "https://images.genius.com/5a7685af68c907aca5d1878da4c3d6d9.360x360x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fairport Convention",
+                        "url": "https://genius.com/artists/Fairport-convention"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 7,
+                    "api_path": "/songs/4135575",
+                    "artist_names": "Syence",
+                    "full_title": "Nice Girl by\u00a0Syence",
+                    "header_image_thumbnail_url": "https://images.genius.com/ee867d8599bb8bc221cee86daea8a4f4.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/ee867d8599bb8bc221cee86daea8a4f4.1000x1000x1.jpg",
+                    "id": 4135575,
+                    "lyrics_owner_id": 6098394,
+                    "lyrics_state": "complete",
+                    "path": "/Syence-nice-girl-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Syence-nice-girl-sample",
+                    "release_date_components": {
+                        "year": 2018,
+                        "month": 12,
+                        "day": 3
+                    },
+                    "release_date_for_display": "December 3, 2018",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 3, 2018",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ee867d8599bb8bc221cee86daea8a4f4.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ee867d8599bb8bc221cee86daea8a4f4.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "Nice Girl",
+                    "title_with_featured": "Nice Girl",
+                    "url": "https://genius.com/Syence-nice-girl-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1189507",
+                        "header_image_url": "https://images.genius.com/4fb476623884943e4b581a4e81afcc5b.400x400x1.jpg",
+                        "id": 1189507,
+                        "image_url": "https://images.genius.com/4fb476623884943e4b581a4e81afcc5b.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Syence",
+                        "url": "https://genius.com/artists/Syence"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 13,
+                    "api_path": "/songs/132414",
+                    "artist_names": "Emma Goldman",
+                    "full_title": "Victims of Morality by\u00a0Emma\u00a0Goldman",
+                    "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/Emma-Goldman410.jpg",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/Emma-Goldman410.jpg",
+                    "id": 132414,
+                    "lyrics_owner_id": 159345,
+                    "lyrics_state": "complete",
+                    "path": "/Emma-goldman-victims-of-morality-annotated",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Emma-goldman-victims-of-morality-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/Emma-Goldman410.jpg",
+                    "song_art_image_url": "https://s3.amazonaws.com/rapgenius/Emma-Goldman410.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Victims of Morality",
+                    "title_with_featured": "Victims of Morality",
+                    "url": "https://genius.com/Emma-goldman-victims-of-morality-annotated",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/42906",
+                        "header_image_url": "https://s3.amazonaws.com/rapgenius/Emma-Goldman410.jpg",
+                        "id": 42906,
+                        "image_url": "https://s3.amazonaws.com/rapgenius/Emma-Goldman410.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Emma Goldman",
+                        "url": "https://genius.com/artists/Emma-goldman"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 1,
+                    "api_path": "/songs/504826",
+                    "artist_names": "William Morris",
+                    "full_title": "The Hollow Land: Part 3 by\u00a0William\u00a0Morris",
+                    "header_image_thumbnail_url": "https://images.genius.com/5a99221ef9e7c9f44ad908ee59a91cc2.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5a99221ef9e7c9f44ad908ee59a91cc2.1000x1000x1.jpg",
+                    "id": 504826,
+                    "lyrics_owner_id": 389740,
+                    "lyrics_state": "complete",
+                    "path": "/William-morris-the-hollow-land-part-3-annotated",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/William-morris-the-hollow-land-part-3-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5a99221ef9e7c9f44ad908ee59a91cc2.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5a99221ef9e7c9f44ad908ee59a91cc2.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "The Hollow Land: Part 3",
+                    "title_with_featured": "The Hollow Land: Part 3",
+                    "url": "https://genius.com/William-morris-the-hollow-land-part-3-annotated",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/38014",
+                        "header_image_url": "https://images.genius.com/5a99221ef9e7c9f44ad908ee59a91cc2.1000x1000x1.jpg",
+                        "id": 38014,
+                        "image_url": "https://images.genius.com/5a99221ef9e7c9f44ad908ee59a91cc2.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "William Morris",
+                        "url": "https://genius.com/artists/William-morris"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 0,
+                    "api_path": "/songs/7805718",
+                    "artist_names": "Wavered",
+                    "full_title": "The Colour Of Rain Reminds Me Of Us by\u00a0Wavered",
+                    "header_image_thumbnail_url": "https://images.genius.com/936c30bffce771e66255cf450ca45dc0.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/936c30bffce771e66255cf450ca45dc0.640x640x1.jpg",
+                    "id": 7805718,
+                    "lyrics_owner_id": 321054,
+                    "lyrics_state": "complete",
+                    "path": "/Wavered-the-colour-of-rain-reminds-me-of-us-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Wavered-the-colour-of-rain-reminds-me-of-us-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/936c30bffce771e66255cf450ca45dc0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/936c30bffce771e66255cf450ca45dc0.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "The Colour Of Rain Reminds Me Of Us",
+                    "title_with_featured": "The Colour Of Rain Reminds Me Of Us",
+                    "url": "https://genius.com/Wavered-the-colour-of-rain-reminds-me-of-us-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2877404",
+                        "header_image_url": "https://images.genius.com/936c30bffce771e66255cf450ca45dc0.640x640x1.jpg",
+                        "id": 2877404,
+                        "image_url": "https://images.genius.com/936c30bffce771e66255cf450ca45dc0.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wavered",
+                        "url": "https://genius.com/artists/Wavered"
+                    }
+                }
+            },
+            {
+                "highlights": [],
+                "index": "song",
+                "type": "song",
+                "result": {
+                    "annotation_count": 29,
+                    "api_path": "/songs/3890451",
+                    "artist_names": "Josey Joe",
+                    "full_title": "Session by\u00a0Josey\u00a0Joe",
+                    "header_image_thumbnail_url": "https://images.genius.com/9a8037f41f96161c7b2a9f86503b54b6.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/9a8037f41f96161c7b2a9f86503b54b6.1000x1000x1.jpg",
+                    "id": 3890451,
+                    "lyrics_owner_id": 6293846,
+                    "lyrics_state": "complete",
+                    "path": "/Josey-joe-session-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Josey-joe-session-sample",
+                    "release_date_components": {
+                        "year": 2018,
+                        "month": 8,
+                        "day": 22
+                    },
+                    "release_date_for_display": "August 22, 2018",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 22, 2018",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/9a8037f41f96161c7b2a9f86503b54b6.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/9a8037f41f96161c7b2a9f86503b54b6.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Session",
+                    "title_with_featured": "Session",
+                    "url": "https://genius.com/Josey-joe-session-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1549955",
+                        "header_image_url": "https://images.genius.com/27cb79d72d260c7d68ec51ab890c99b6.1000x1000x1.png",
+                        "id": 1549955,
+                        "image_url": "https://images.genius.com/1df037eec7524c29400b94c9722b270f.416x416x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Josey Joe",
+                        "url": "https://genius.com/artists/Josey-joe",
+                        "iq": 2957
+                    }
+                }
+            }
+        ]
+    }
+}
